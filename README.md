@@ -3,11 +3,9 @@ A web application which takes in live audio speech recording as input, converts 
 
 >- Front-end using HTML,CSS,JavaScript.
 >- Speech recognition using JavaScript Web speech API.
->- Text Preprocessing using Natural Language Toolkit(NLTK).
 >- A 3D animation of a character created
 using Blender 3D tool.
 
-Project Demo Video: https://youtu.be/YiHhD0QGrno
 
 
 ## Prerequisites
